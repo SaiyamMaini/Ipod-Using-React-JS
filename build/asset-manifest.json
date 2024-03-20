@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Ipod-Using-React/static/css/main.7a8ec9b3.css",
+    "main.js": "/Ipod-Using-React/static/js/main.46a5cd91.js",
+    "static/media/song2.mp3": "/Ipod-Using-React/static/media/song2.dfd5f548473a1c7b4194.mp3",
+    "static/media/song4.mp3": "/Ipod-Using-React/static/media/song4.9924506e9cd2cad59cde.mp3",
+    "static/media/song1.mp3": "/Ipod-Using-React/static/media/song1.a36f899b42dc673d213b.mp3",
+    "static/media/song3.mp3": "/Ipod-Using-React/static/media/song3.36900727aaa380289f04.mp3",
+    "static/media/wp2.webp": "/Ipod-Using-React/static/media/wp2.71c6ab68bff8c537729b.webp",
+    "static/media/art3.png": "/Ipod-Using-React/static/media/art3.303f0b5ca9df1a6413a0.png",
+    "static/media/art2.png": "/Ipod-Using-React/static/media/art2.9e384c7070546adff168.png",
+    "static/media/img2.jpeg": "/Ipod-Using-React/static/media/img2.acab65060e0e7c7a56bc.jpeg",
+    "static/media/img3.jpeg": "/Ipod-Using-React/static/media/img3.998f94d613f458f88907.jpeg",
+    "static/media/wp1.jpeg": "/Ipod-Using-React/static/media/wp1.1f81f78fe2e6977b5ab6.jpeg",
+    "static/media/img4.jpeg": "/Ipod-Using-React/static/media/img4.895813d907200073ea85.jpeg",
+    "static/media/img1.jpeg": "/Ipod-Using-React/static/media/img1.e386e9e6fbf63bf223f9.jpeg",
+    "static/media/art1.jpeg": "/Ipod-Using-React/static/media/art1.c8805a03a0a6f087ecaf.jpeg",
+    "static/media/wp3.jpeg": "/Ipod-Using-React/static/media/wp3.0fd6696cd7d6d85c7e90.jpeg",
+    "index.html": "/Ipod-Using-React/index.html",
+    "main.7a8ec9b3.css.map": "/Ipod-Using-React/static/css/main.7a8ec9b3.css.map",
+    "main.46a5cd91.js.map": "/Ipod-Using-React/static/js/main.46a5cd91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a8ec9b3.css",
+    "static/js/main.46a5cd91.js"
+  ]
+}

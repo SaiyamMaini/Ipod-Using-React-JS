@@ -1,0 +1,47 @@
+.Container{
+    height: 110px;
+    width: 170px;
+    /* border: 1px solid green; */
+    position: relative;
+    top:40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: rgb(255, 255, 255);
+}
+
+.left{
+    margin-left: 2%;
+    font-size: 14px;
+}
+
+span{
+    margin-bottom: 12px;
+}
+
+.time{
+    display: flex;
+    justify-content: center;
+    color:  white;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+.dash{
+    margin-top: -13px;
+}
+
+.imgCon{
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+}
+
+.imgCon img{
+    height:100%;
+    width: 100%;
+    border-radius: 50%;
+}

@@ -1,0 +1,10 @@
+.screenContainer{
+    height: 170px;
+    width: 200px;
+    border: 2px solid black;
+    /* background-image: url('/Users/saiyammaini/Downloads/pexels-pixabay-531756.jpg'); */
+    background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+    margin-top: -30px;
+}

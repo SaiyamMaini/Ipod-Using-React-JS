@@ -1,0 +1,15 @@
+.settingsContainer{
+    width:100%;
+    height: 88%;
+    background-color: #E7F4FD;
+}
+
+.List{
+    list-style: none;
+}
+
+.Item{
+    /* border:1px solid black; */
+    padding: 8px 0px;
+    padding-left: 3px;
+}

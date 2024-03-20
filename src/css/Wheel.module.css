@@ -1,0 +1,61 @@
+.mr{
+    margin-right: 4px;
+}
+
+.wheelContainer{
+    height: 150px;
+    width: 200px;
+    margin-top: 13px;
+}
+
+.wheel{
+    height:150px;
+    width: 150px;
+    border-radius: 50%;
+    /* background-color: white; */
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    cursor: pointer;
+}
+
+.btn{
+    position: absolute;
+    font-size: small;
+    color: #B9B9B9;
+}
+
+#menu{
+    font-weight: bold;
+    top:12%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#backward{
+    left: 12%;
+    top:50%;
+    transform: translateY(-50%);
+}
+
+#pp{
+    left: 50%;
+    bottom: 12%;
+    transform: translateX(-50%);
+}
+
+#forward{
+    right:12%;
+    top:50%;
+    transform: translateY(-50%);
+}
+
+#cenBtn{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    top:50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #B9B9B9;
+}

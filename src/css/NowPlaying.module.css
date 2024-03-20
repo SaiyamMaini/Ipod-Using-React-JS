@@ -1,0 +1,45 @@
+@keyframes rotatePoster {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+.NPContainer{
+    height: 88%;
+    width: 100%;
+    /* border: 1px solid green; */
+    background-color: #494646;
+}
+
+.head{
+    color: white;
+}
+
+.Poster{
+    height: 45%;
+    width: 40%;
+    margin-left: 27%;
+    border-radius: 50%;
+    box-shadow: 0px 0px 6px 4px rgba(230, 196, 196, 0.3);
+    animation: rotatePoster 10s linear infinite;
+}
+
+.image{
+    height:100%;
+    width: 100%;
+}
+
+h6{
+    color: white;
+    text-align: center;
+    margin-top: 14px;
+}
+
+.Icon{
+    font-size: 4rem;
+    margin-top: 12%;
+    margin-left: 28%;
+}
